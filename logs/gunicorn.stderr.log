@@ -1,0 +1,9 @@
+[2019-05-27 11:47:10 +0700] [5522] [INFO] Starting gunicorn 19.7.1
+[2019-05-27 11:47:10 +0700] [5522] [INFO] Listening at: http://127.0.0.1:8001 (5522)
+[2019-05-27 11:47:10 +0700] [5522] [INFO] Using worker: sync
+[2019-05-27 11:47:10 +0700] [5537] [INFO] Booting worker with pid: 5537
+[2019-05-27 11:47:10 +0700] [5538] [INFO] Booting worker with pid: 5538
+[2019-05-27 11:47:10 +0700] [5539] [INFO] Booting worker with pid: 5539
+Trying import local.py settings...
+Trying import local.py settings...
+Trying import local.py settings...
